@@ -1,0 +1,6 @@
+day_type_code,day_type
+0,0: All Days (M-Su)
+3,3:  Weekday_TuWeTh (Tu-Th)
+4,4:  We (W-W)
+8,8:  Weekend_SaSu (Sa-Su)
+9,9:  Su (Su-Su)

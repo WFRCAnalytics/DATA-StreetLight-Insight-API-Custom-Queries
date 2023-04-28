@@ -1,0 +1,11 @@
+,day_type
+0,0: All Days (M-Su)
+3,1:  Mo (M-M)
+5,3:  Weekday_TuWeTh (Tu-Th)
+7,5:  Th (Th-Th)
+9,6:  Fr (F-F)
+13,7:  Sa (Sa-Sa)
+15,8:  Weekend_SaSu (Sa-Su)
+25,2:  Tu (Tu-Tu)
+60,4:  We (W-W)
+22,9:  Su (Su-Su)
